@@ -1,0 +1,16 @@
+<html>
+<body>
+
+<h1>Tian Luo</h1>
+
+<p>小萝卜头的成长记录</p>
+<a href="cgi/calculate/">Calculate</a>
+<br />
+<a href="cgi/sql/">Sign up</a>
+<br />
+<a href="cgi/sql/select_cgi">Select</a>
+<br />
+<img src="imag/fendou.jpg" />
+</body>
+</html>
+

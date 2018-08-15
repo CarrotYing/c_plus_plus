@@ -1,0 +1,18 @@
+<html>
+<body>
+
+<h1 align="center">简易计算器</h1>
+<form action="action" method="POST" align="center">
+number1:<br>
+<input type="text" name="number1" value="100">
+<br>
+number2:<br>
+<input type="text" name="number2" value="100">
+<br><br>
+<input type="submit" value="Calculate">
+</form>
+
+
+</body>
+</html>
+

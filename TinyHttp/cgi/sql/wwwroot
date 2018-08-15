@@ -1,0 +1,12 @@
+<form action="insert_cgi">
+Name:<br>
+<input type="text" name="Name" value="Mickey">
+<br>
+School:<br>
+<input type="text" name="School" value="Xatu">
+<br>
+Hobby:<br>
+<input type="text" name="Hobby" value="read">
+<br><br>
+<input type="submit" value="Submit">
+</form> 
